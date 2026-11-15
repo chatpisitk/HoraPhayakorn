@@ -1,2 +1,0 @@
-# HoraPhayakorn
-ทดสอบการทำ vibe coding
